@@ -1,4 +1,6 @@
 Repository Name: Gemini-Health-App
+
+
 Overview: A cutting-edge health management application that uses AI-powered image analysis to provide nutritional insights. The app takes food images as input and returns a detailed calorie count and nutritional breakdown using Google Gemini AI.
 
 Features:
